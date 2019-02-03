@@ -2,13 +2,14 @@
 
 Cliente facebook basado en linea de comandos Computacion en Java (Tecmilenio)
 
-Instalacion
+##Instalacion
 
-Uso
+## Uso
 
 
-Creditos
+## Creditos
 Sergio C.Lopez Sanchez AL02831040
 
-Licencia
+##Licencia
 Libre
+
